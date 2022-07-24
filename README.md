@@ -24,3 +24,9 @@
 "Pull requestler kabul edilir. Büyük degişiklikler için, neyi değiştirmek istediğinizi tartışmak için bir konu açınız."
 
 ![projeresmi](image.png)
+
+# licence
+ 
+
+[MIT](https://github.com/oznurcagdass/kodluyoruzilkrepo/blob/main/LICENSE)
+
